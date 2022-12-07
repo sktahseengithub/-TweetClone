@@ -1,0 +1,136 @@
+
+.align-card1{
+    display: flex;
+    padding: px 10px;
+    float: left;
+    position: sticky !important;
+    top: 10px;
+}
+
+.trend-side-widgets{
+    flex-direction: column;
+    margin-right: 10px;
+}
+
+.trend1{
+    font-size: 14px;
+    font-weight: 200;
+    margin-left: 30px;
+    padding-top: 3%;
+}
+
+.td2{
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 30px;
+    padding-top: 3%;
+}
+.fd6{
+    font-size: 14px;
+    font-weight: 200;
+    margin-left: 30px;
+    
+}
+
+.trend2{
+    font-size: 14px;
+    font-weight: 200;
+    margin-left: 30px;
+    padding-top: 3%;
+}
+.td3{
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 30px;
+    padding-top: 3%;
+}
+.fd5{
+    font-size: 14px;
+    font-weight: 200;
+    margin-left: 30px;
+     
+}
+
+.trend3{
+    font-size: 14px;
+    font-weight: 200;
+    margin-left: 30px;
+    padding-top: 3%;
+}
+
+.td4{
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 30px;
+    padding-top: 3%;
+}
+.fd4{
+    font-size: 14px;
+    font-weight: 200;
+    margin-left: 30px;
+    
+}
+.trend4{
+    font-size: 14px;
+    font-weight: 200;
+    margin-left: 30px;
+    padding-top: 3%;
+}
+
+.td5{
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 30px;
+    padding-top: 3%;
+}
+.fd3{
+    font-size: 14px;
+    font-weight: 200;
+    margin-left: 30px;
+  
+}
+.trend5{
+    font-size: 14px;
+    font-weight: 200;
+    margin-left: 30px;
+    padding-top: 3%;
+}
+
+.td6{
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 30px;
+    padding-top: 3%;
+}
+.fd2{
+    font-size: 14px;
+    font-weight: 200;
+    margin-left: 30px;
+     
+}
+.trend6{
+    font-size: 14px;
+    font-weight: 200;
+    margin-left: 30px;
+    padding-top: 3%;
+}
+
+.td1{
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 30px;
+    padding-top: 3%;
+}
+.fd1{
+    font-size: 14px;
+    font-weight: 200;
+    margin-left: 30px; 
+}
+
+.trend-icon{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 110px;
+    
+}

@@ -1,0 +1,23 @@
+
+
+
+.tweet-box{
+    display: flex;
+    padding-left: 10px;
+}
+
+.imag-cla img{
+    border-radius: 50%;
+    width: 50px; 
+    height: 50px;  
+}
+
+.content-box{
+    padding-left: 3%;
+}
+
+.tweet-footer{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 9px;
+}

@@ -1,0 +1,68 @@
+[
+    {
+        "authorName": "Elon Musk",
+        "authorImg": "https://pbs.twimg.com/profile_images/1590968738358079488/IY9Gx6Ok_400x400.jpg",
+        "text": "Starlink is now available across all of Alaska and Canada  → http://starlink.com/map",
+        "postImg": "https://pbs.twimg.com/media/FiHmgjvVQAAajoT?format=jpg&name=4096x4096",
+        "handle": "@elonmusk",
+        "likes": "50.k",
+        "retweets": "200k",
+        "comments": "2k"
+   },
+
+   {
+    "authorName": "Elon Musk",
+    "authorImg": "https://pbs.twimg.com/profile_images/1590968738358079488/IY9Gx6Ok_400x400.jpg",
+    "text": "Falcon 9’s first stage has landed on the Just Read the Instructions droneship",
+    "postImg": "https://image.cnbcfm.com/api/v1/image/105847383-15550456725171555023286494fha6adouble.gif?v=1555045881&w=720&h=405",
+    "handle": "@elonmusk",
+    "likes": "80.2k",
+    "retweets": "325k",
+    "comments": "8k"
+},
+
+{
+    "authorName": "ICC",
+    "authorImg": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+    "text": "Some important changes to India's squad for their white-ball tour of Bangladesh 👇",
+    "postImg": "https://resources.pulse.icc-cricket.com/photo-resources/2022/11/23/e2869cc0-b14e-496e-8386-4a6b595df8d1/GettyImages-1241951724.jpg?width=1920&height=1080",
+    "textt":"njuries to senior all-rounder Ravindra Jadeja and rookie Yash Dayal has seen India make a couple of changes to the ODI squad for the series against Bangladesh.",
+    "handle": "@ICC",
+    "likes": "62.9k",
+    "retweets": "287k",
+    "comments": "3.6k"
+},
+
+{
+    "authorName": "Virat Kholi",
+    "authorImg": "https://pbs.twimg.com/profile_images/1562753500726976514/EPSUNyR3_400x400.jpg",
+    "text": "Great day in Qatar! A city that unraveled some fantastic encounters and some stellar conversations; definitely one to come back to and explore more. Thank you  @VisitQatar#fabdoha 👌🏼",
+    "postImg": "https://cdn.bolnews.com/wp-content/uploads/2022/08/FotoJet-24-38.jpg",
+    "handle": "@iamKholi",
+    "likes": "65.6k",
+    "retweets": "500k",
+    "comments": "63k"
+},
+
+{
+    "authorName": "Satya Nadella",
+    "authorImg": "https://pbs.twimg.com/profile_images/1221837516816306177/_Ld4un5A_400x400.jpg",
+    "text": "Microsoft Teams is getting 3D digital avatars and environments on the platform as phase of the tech giant's push closer to to enter the metaverse. As hybrid work is taking place round the globe, Mesh for Microsoft Teams.... ",
+    "postImg": "https://gizmeek.com/content/postimages/gkg.gif",
+    "handle": "@satyanadella",
+    "likes": "65.6k",
+    "retweets": "500k",
+    "comments": "63k"
+},
+
+{
+    "authorName": "Twitter",
+    "authorImg": "https://pbs.twimg.com/profile_images/1488548719062654976/u6qfBBkF_400x400.jpg",
+    "text": "Twitter Supports Animated Giff🤩💙❄️💎",
+    "postImg": "https://cdn-www.oktopost.com/blog/wp-content/uploads/2015/09/TwitGif_L1.gif",
+    "handle": "@TwitterBlue",
+    "likes": "65.6k",
+    "retweets": "500k",
+    "comments": "63k"
+}
+]

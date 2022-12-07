@@ -1,0 +1,32 @@
+.proftweet-boxx{
+    display: flex;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+.profimag-claa img{
+    border-radius: 50%;
+    width: 50px; 
+    height: 50px;  
+}
+
+.proftweet-textt{
+    margin-bottom: 10px;
+}
+
+.profcontent-boxx{
+    padding-left: 3%;
+}
+
+.proftweet-footerr{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 9px;
+}
+
+.post-img-postt img{
+    width: 550px;
+    height: 430px;
+    border-radius: 10px;
+
+}

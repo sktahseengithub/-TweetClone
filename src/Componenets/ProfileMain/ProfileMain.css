@@ -1,0 +1,127 @@
+
+
+.profile-main{
+    position: sticky !important; 
+    top: 0px; 
+}
+.cover{
+    position: relative;
+    background-image: url(https://pbs.twimg.com/profile_banners/44196397/1576183471/1500x500);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 180px;
+}
+
+.profile-img {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    border: 4px solid white;
+   left: 24px;
+   position: absolute;
+   bottom: -80px;
+   margin-left: 1%;
+   
+}
+
+.follow-btn-container{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 70%;
+  margin-top: 4%;
+  padding-right: 20px;
+  
+}
+
+.follow-btn-1-btn{
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    height: 36px;
+    padding: 4px 16px;
+    border-radius: 34px; 
+
+} 
+
+.name-auth{
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: 30px;
+    padding-top: 3%;
+}
+
+.email{
+    font-size: 17px;
+    margin-left: 30px;
+    color: lightslategrey;
+}
+
+.calendar{
+    display: flex;
+    margin-left: 2px;
+    font-size: 17px;
+    margin-left: 30px;
+    margin-top: 2%;
+    color: lightslategrey;
+}
+
+.calendar svg{
+    margin-top: 1%;
+    margin-right: 2%;
+}
+
+.joined{
+    font-size: 17px;
+    margin-left: 30px;
+    margin-top: 3%;
+    color: lightslategrey;
+}
+
+.follower{
+    font-size: 17px;
+    margin-left: 30px;
+    margin-top: 3%;
+    color: lightslategray;
+}
+
+.follower h6{
+    display: flex;
+}
+
+
+.main-name {
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 3%;
+    
+}
+
+ul{
+    margin-top: 4%;
+}
+
+ul li a{
+    transition: 0.3s all;
+}
+
+ul li a:hover{
+    color: #50b7f5;
+}
+.hover-line::after{
+    content: "";
+    display: block;
+    width: 0%;
+    height: 3px;
+    background-color: #50b7f5;
+    transition:width .3s;
+}
+
+.hover-line:hover::after{
+    width: 100%;
+    transition: width .3s ;
+}
+
+.header-profi{
+    padding: 8px 20px;
+    font-weight: 700;
+    font-size: 24px;
+}
